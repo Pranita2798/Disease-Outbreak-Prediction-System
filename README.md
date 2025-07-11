@@ -120,27 +120,4 @@ We welcome contributions from the global health community:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
 
-- **Lead Developer**: [Your Name]
-- **Data Scientists**: [Team Members]
-- **UX/UI Designer**: [Designer Name]
-- **Public Health Advisor**: [Advisor Name]
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities:
-- Email: contact@disease-outbreak-system.com
-- GitHub: [Repository Issues](https://github.com/your-username/disease-outbreak-prediction-system/issues)
-- Documentation: [Wiki](https://github.com/your-username/disease-outbreak-prediction-system/wiki)
-
-## 🙏 Acknowledgments
-
-- World Health Organization (WHO) for disease classification standards
-- Centers for Disease Control and Prevention (CDC) for outbreak protocols
-- Open-source community for development tools and libraries
-- Global health experts for domain knowledge and feedback
-
----
-
-**Disclaimer**: This system is designed for educational and research purposes. Always consult with qualified medical professionals and official health authorities for real-world health decisions and outbreak response.
